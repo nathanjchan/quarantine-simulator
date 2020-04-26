@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OuterSpace
+comment0.text=\r\n\ The\ background\ of\ the\ actual\ game.\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ Jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=OuterSpace()
+comment1.text=\r\n\ Creates\ the\ space\ background\ for\ the\ game\ screen.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Creates\ the\ action\ to\ remove\ lives\ if\ you\ get\ hit\ and\ moves\ you\ to\ the\r\n\ game\ over\ screen\ once\ you\ lose\ all\ your\ lives.\r\n
+numComments=3

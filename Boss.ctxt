@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Boss
+comment0.text=\r\n\ The\ background\ for\ and\ objects\ in\ the\ boss\ level.\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ Jason\ Chan\r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=Boss()
+comment1.text=\r\n\ Creates\ a\ boss\ ship,\ player\ ship,\ and\ the\ heart\ objects\ for\ lives.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

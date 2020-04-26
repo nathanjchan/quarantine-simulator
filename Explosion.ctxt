@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ Creates\ an\ explosion\ when\ the\ boss\ ship\ gets\ hit.\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ Jason\ Chan\r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Explosion\ stays\ for\ five\ counts\ before\ deleting\ itself.\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BossShip
+comment0.text=\r\n\ Final\ boss\ that\ the\ player\ must\ beat\ in\ order\ to\ win\ the\ game\r\n\ \r\n\ @author\ Ethan\ Chan\ an\ Jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=BossShip()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ whether\ it\ can\ shoot\ or\ not\ and\ if\ it\ is\ hit\ by\ a\ red\ bullet\r\n\ and\ decrements\ lives\ accordingly.\ It\ also\ moves\ left\ or\ right\r\n\ and\ switches\ directions\ after\ it's\ hit\ the\ side\ of\ the\ world.\r\n
+numComments=3

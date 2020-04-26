@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=End
+comment0.text=\r\n\ The\ game\ over\ screen.\r\n\ \r\n\ @author\ Ethan\ Chan\ an\ Jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=End()
+comment1.text=\r\n\ Creates\ the\ space\ background\ for\ the\ game\ over\ screen.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Creates\ the\ game\ over\ and\ retry\ objects\ for\ the\ game\ over\ screen.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Creates\ the\ action\ to\ press\ a\ key\ to\ retry\ the\ game.\r\n
+numComments=4

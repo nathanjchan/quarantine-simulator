@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Title
+comment0.text=\r\n\ Representation\ of\ the\ title\ in\ the\ Start\ world.\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=Title()
+comment1.text=\r\n\ Creates\ and\ scales\ the\ title\ image.\r\n
+numComments=2

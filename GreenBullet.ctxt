@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GreenBullet
+comment0.text=\r\n\ Bullet\ shot\ by\ the\ enemy\ ships\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves\ downward\ and\ if\ it\ reaches\ the\ bottom\ of\ the\ world\ then\ it\ \r\n\ deletes\ itself\r\n
+numComments=2

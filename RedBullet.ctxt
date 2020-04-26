@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RedBullet
+comment0.text=\r\n\ Bullet\ shot\ by\ the\ ship\ the\ player\ controls\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Moves\ upward\ and\ if\ it\ reaches\ the\ top\ then\ it\ destroys\ itself\r\n
+numComments=2

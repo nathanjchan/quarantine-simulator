@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EnemyRed
+comment0.text=\r\n\ Hardest\ enemy\ that\ the\ player\ must\ destroy.\r\n\ \r\n\ @author\ Ethan\ Chan\ and\ jason\ Chan\ \r\n\ @version\ Version\ Alpha\r\n
+comment1.params=
+comment1.target=EnemyRed()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ if\ it\ can\ shoot\ and\ if\ it's\ hit\ by\ a\ red\ bullet\ then\ it\ loses\r\n\ a\ life.\ If\ its\ lives\ reach\ zero,\ the\ total\ enemyCount\ is\ decremented.\r\n
+numComments=3
